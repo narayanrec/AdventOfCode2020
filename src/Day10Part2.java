@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-public class Day10_part2 {
+public class Day10Part2 {
 
     public static void main(String[] args) throws IOException {
         String filename = "//Users//narayanprangya//IdeaProjects//AdventOfCode//src//input_day10.txt";

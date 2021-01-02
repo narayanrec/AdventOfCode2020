@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class Day13_part2 {
+public class Day13Part2 {
 
     public static void main(String[] args) throws IOException {
         String filename = "//Users//narayanprangya//IdeaProjects//AdventOfCode//src//input_day13.txt";

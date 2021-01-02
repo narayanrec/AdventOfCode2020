@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;
 
-public class Day12_part1 {
+public class Day12Part1 {
 
     public static void main(String[] args) throws IOException {
         String filename = "//Users//narayanprangya//IdeaProjects//AdventOfCode//src//input_day12.txt";
